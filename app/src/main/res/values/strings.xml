@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rumus Bangun Datar</string>
+    <string name="title_persegi">Persegi</string>
+    <string name="title_segitiga">Segitiga</string>
+    <string name="title_belahketupat">BelahKetupat</string>
+    <string name="title_jajargenjang">JajarGenjang</string>
+    <string name="title_layanglayang">LayangLayang</string>
+    <string name="title_tentang">Tentang</string>
+    <string name="title_app">PERHITUNGAN PERSEGI PANJANG</string>
+    <string name="title_txt1">PANJANG</string>
+</resources>
